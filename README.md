@@ -6,6 +6,30 @@ Welcome to my collection of intelligent AI agents designed to streamline workflo
 
 ## 🚀 Featured AI Agents
 
+### Scam Shield AI
+
+**Description:**
+Protect yourself and your loved ones from phishing emails with an AI-powered browser tool. Scam Shield AI doesn’t just analyze — it educates you by highlighting the specific elements of an email that make it safe or suspicious.
+
+**Use Case:**
+Perfect for individuals, professionals, and organizations who want a second set of eyes on their inbox to detect and learn about scams before clicking.
+
+**Key Features:**
+
+Browser-based (no upload required)
+
+Scans email content, tone, and links
+
+Flags suspicious elements (urgency, fake domains, phishing keywords)
+
+Provides a clear scam risk score
+
+Educates you by explaining red flags and why an email is (or isn’t) suspicious
+
+[🔗 Try it out] (https://app.mindstudio.ai/agents/scam-shield-ai-42e90ae0/remix)
+
+
+
 ### TLDR Any Webpage
 **Description**: Instantly extract key insights from any webpage, YouTube video, or PDF with a single click.
 
